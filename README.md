@@ -7,7 +7,7 @@ CIS student at the University of North Alabama
 
 I am pursuing a career in a software field that will hopefully later turn towards sales. I hope to be on a team of software developers at first, but soon move over to a sales rep after I have a few years of experience. As of right now, my CIS major and Sales minor are the first steps towards that goal.
 
-![My Profile Issue](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![My Profile Issue](https://cdn8.openculture.com/wp-content/uploads/2016/03/05153531/free-computer-coding-resources-1024x671.jpg)
 
 * 🌍  I'm based in Alabama
 * ✉️  You can contact me at [nwillis1@una.edu](mailto:nwillis1@una.edu)
