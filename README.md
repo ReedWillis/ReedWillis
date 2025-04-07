@@ -11,7 +11,7 @@ I am pursuing a career in a software field that will hopefully later turn toward
 
 * 🌍  I'm based in Alabama
 * ✉️  You can contact me at [nwillis1@una.edu](mailto:nwillis1@una.edu)
-* 🚀  I'm currently working on [Muscle Shoals Earth Month Website](http://reedwillis.github.io/Muscle-Shoals-Earth-Day/) [Code Here](https://github.com/ReedWillis/Muscle-Shoals-Earth-Day)
+* 🚀  I'm currently working on the Muscle Shoals Earth Month [Website](http://reedwillis.github.io/Muscle-Shoals-Earth-Day/) [Code Here](https://github.com/ReedWillis/Muscle-Shoals-Earth-Day)
 * 🧠  I'm learning Currently learning web development and IT infrastructure.
 * ⚡  I love the outdoors
 
