@@ -1,5 +1,5 @@
 
-Hi 👋 My name is Reeed Willis
+Hi 👋 My name is Reed Willis
 =============================
 
 CIS student at the University of North Alabama
